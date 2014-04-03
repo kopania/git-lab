@@ -14,8 +14,15 @@
 *.la
 *.a
 *.lib
+bin/*
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Other
+.*.sw[a-z]
+*~
+\#*\#
+.DS_Store
